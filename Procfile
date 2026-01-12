@@ -1,1 +1,1 @@
-web: gunicorn devj.wsgi:application
+web: gunicorn empleado.wsgi
